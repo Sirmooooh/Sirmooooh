@@ -1,5 +1,5 @@
 README.md
-LinkedIn Badge Twitter Badge Mail Badge
+
 Hello there
 👨‍💻 About Me :
 
@@ -14,9 +14,9 @@ I am a Passionate Aspiring Full Stack developer, Nigeria.
 
     📫How to reach me: Linkedin Badge
 
-My Portfolio
 
-    BLOGS
+
+
 
 What happens when you type google.com in your browser and press Enter?
 🛠️ My Stack :
