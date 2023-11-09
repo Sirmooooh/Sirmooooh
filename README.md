@@ -12,7 +12,7 @@ I am a Passionate Aspiring Full Stack developer, Nigeria.
 
     ⚡ In my free time, I work on backend fundamentals e.g Postman , solve problems on Codecademy and read tech articles.
 
-    📫How to reach me: Linkedin Badge
+
 
 
 
@@ -21,10 +21,6 @@ I am a Passionate Aspiring Full Stack developer, Nigeria.
 What happens when you type google.com in your browser and press Enter?
 🛠️ My Stack :
 HTML  CSS  JavaScript  C  Python  MySQL  SqlAlchemy  mongodb  NodeJS  ExpressJS  ReactJS  Flask  [Linux] [Git] [GitHub] Firebase  [npm] [ubuntu] [Docker] [SSH] [Nginx] [Apache]
-🔥 My Stats :
-
-Top Langs
-GitHub Streak
 ✍️ AUTHOR:
 
 MUHAMMAD RABIU USMAN
