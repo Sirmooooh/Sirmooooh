@@ -17,10 +17,6 @@ I am a Passionate Aspiring Full Stack developer, Nigeria.
 
 
 
-
-What happens when you type google.com in your browser and press Enter?
-🛠️ My Stack :
-HTML  CSS  JavaScript  C  Python  MySQL  SqlAlchemy  mongodb  NodeJS  ExpressJS  ReactJS  Flask  [Linux] [Git] [GitHub] Firebase  [npm] [ubuntu] [Docker] [SSH] [Nginx] [Apache]
 ✍️ AUTHOR:
 
 MUHAMMAD RABIU USMAN
